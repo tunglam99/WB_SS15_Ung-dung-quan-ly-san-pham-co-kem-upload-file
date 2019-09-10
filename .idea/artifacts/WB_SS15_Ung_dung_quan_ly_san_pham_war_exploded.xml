@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="WB_SS15_Ung dung quan ly san pham:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/WB_SS15_Ung_dung_quan_ly_san_pham_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="WB_SS15_Ung dung quan ly san pham co kem upload file/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="WB_SS15_Ung dung quan ly san pham co kem upload file" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
